@@ -1,2 +1,2 @@
 # Backtracking 
-backtrackimg on arrrays
+Using backtrtacking technique on arrays .
