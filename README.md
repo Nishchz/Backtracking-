@@ -3,19 +3,19 @@
   <h1>Backtracking with Arrays – Java 🔁</h1>
 
 <p>This repository contains a <b>simple and clear demonstration of backtracking</b>
-using <b>recursion on arrays</b> in Java.</p>
-
-It helps beginners understand how values are changed during recursion
-and how the **undo (backtracking) step** works.
+using <b>recursion on arrays</b> in Java.It helps beginners understand how values are changed during recursion
+and how the **undo (backtracking) step** works.</p>
 
 ---
 </div>
-## 🚀 Features
+<div>
+<h1> 🚀 Features</h1>
 - Uses recursion to traverse an array
 - Demonstrates backtracking clearly (undo step)
 - Shows how array values change before and after recursion
 - Beginner-friendly Java implementation
 - Works with any integer array
+</div>
 
 ---
 
