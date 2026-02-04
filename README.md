@@ -4,7 +4,7 @@
 
 <p>This repository contains a <b>simple and clear demonstration of backtracking</b>
 using <b>recursion on arrays</b> in Java.It helps beginners understand how values are changed during recursion
-and how the **undo (backtracking) step** works.</p>
+and how the <b>undo (backtracking) step</b> works.</p>
 
 ---
 </div>
