@@ -1,4 +1,4 @@
-# Backtracking with Arrays – Java 🔁
+<h1>Backtracking with Arrays – Java 🔁</h1>
 
 This repository contains a **simple and clear demonstration of backtracking**
 using **recursion on arrays** in Java.
