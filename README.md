@@ -13,13 +13,11 @@ and how the <b>undo (backtracking) step</b> works.</p>
   <ul>
 <li>Uses recursion to traverse an array</li>
 <li>Demonstrates backtracking clearly (undo step)</li>
-- Shows how array values change before and after recursion
-- Beginner-friendly Java implementation
-- Works with any integer array
+<li>Shows how array values change before and after recursion</li>
+<li>Beginner-friendly Java implementation</li>
+<li>Works with any integer array</li>
   </ul>
 </div>
-
----
 
 ## 🧠 Concept Used
 **Backtracking**
