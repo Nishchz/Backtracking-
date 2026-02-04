@@ -1,4 +1,5 @@
 <body>
+  <div>
   <h1>Backtracking with Arrays – Java 🔁</h1>
 
 This repository contains a **simple and clear demonstration of backtracking**
@@ -8,7 +9,7 @@ It helps beginners understand how values are changed during recursion
 and how the **undo (backtracking) step** works.
 
 ---
-
+</div>
 ## 🚀 Features
 - Uses recursion to traverse an array
 - Demonstrates backtracking clearly (undo step)
