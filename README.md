@@ -23,6 +23,3 @@ and how the **undo (backtracking) step** works.
 - Go deeper using recursion
 - Undo the change while returning
 
----
-
-## 📌 Example Output
