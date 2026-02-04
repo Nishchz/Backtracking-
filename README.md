@@ -10,11 +10,13 @@ and how the <b>undo (backtracking) step</b> works.</p>
 </div>
 <div>
 <h1> 🚀 Features</h1>
-- Uses recursion to traverse an array
-- Demonstrates backtracking clearly (undo step)
+  <ul>
+<li>Uses recursion to traverse an array</li>
+<li>Demonstrates backtracking clearly (undo step)</li>
 - Shows how array values change before and after recursion
 - Beginner-friendly Java implementation
 - Works with any integer array
+  </ul>
 </div>
 
 ---
