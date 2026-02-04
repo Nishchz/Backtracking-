@@ -1,4 +1,5 @@
-<h1>Backtracking with Arrays – Java 🔁</h1>
+<body>
+  <h1>Backtracking with Arrays – Java 🔁</h1>
 
 This repository contains a **simple and clear demonstration of backtracking**
 using **recursion on arrays** in Java.
@@ -23,3 +24,4 @@ and how the **undo (backtracking) step** works.
 - Go deeper using recursion
 - Undo the change while returning
 
+</body>
