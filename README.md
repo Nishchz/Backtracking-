@@ -2,7 +2,7 @@
   <div>
   <h1>Backtracking with Arrays – Java 🔁</h1>
 
-<p>This repository contains a **simple and clear demonstration of backtracking**
+<p>This repository contains a **simple and clear demonstration of backtracking<br>
 using **recursion on arrays** in Java.</p>
 
 It helps beginners understand how values are changed during recursion
